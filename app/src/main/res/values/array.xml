@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort">
+        <item>이름순</item>
+        <item>별점순</item>
+    </string-array>
+    <string-array name="우디">
+
+        <item>베르가못</item>
+
+        <item>월계수 잎</item>
+
+        <item>건초</item>
+
+        <item>머스크</item>
+
+        <item>파피루스</item>
+
+        <item>아이리스</item>
+
+        <item>암브레트 시드</item>
+
+        <item>편백가지</item>
+
+        <item>장미나무</item>
+
+        <item>무화과</item>
+
+        <item>코코넛</item>
+
+    </string-array>
+
+
+    -<string-array name="플로랄">
+
+    <item>라일락</item>
+
+    <item>프리지아</item>
+
+    <item>로즈</item>
+
+    <item>머스크</item>
+
+    <item>작약</item>
+
+    <item>파츌리</item>
+
+    <item>샌달우드</item>
+
+    <item>자스민</item>
+
+    <item>화이트 머스크</item>
+
+    <item>피오니</item>
+
+</string-array>
+
+
+    -<string-array name="오리엔탈">
+
+    <item>앰버</item>
+
+    <item>제라늄</item>
+
+    <item>우디노트</item>
+
+    <item>그린티</item>
+
+    <item>베르가못</item>
+
+    <item>바닐라</item>
+
+</string-array>
+
+
+    -<string-array name="프루티">
+
+    <item>자몽</item>
+
+    <item>복숭아</item>
+
+    <item>살구</item>
+
+    <item>자스민</item>
+
+    <item>블랙베리</item>
+
+    <item>시더우드</item>
+
+    <item>배</item>
+
+    <item>프리지아</item>
+
+</string-array>
+
+
+    -<string-array name="시트러스">
+
+    <item>오렌지</item>
+
+    <item>레몬</item>
+
+    <item>자몽</item>
+
+    <item>만다린</item>
+
+    <item>라임</item>
+
+    <item>시트러스노트</item>
+
+    <item>비터오렌지</item>
+
+    <item>오렌지 플라워</item>
+
+</string-array>
+
+
+    -<string-array name="머스크">
+
+    <item>머스크</item>
+
+    <item>자스민</item>
+
+    <item>모스</item>
+
+    <item>암브레트 시드</item>
+
+    <item>마츌리</item>
+
+    <item>일랑일랑</item>
+
+    <item>베르가못</item>
+
+</string-array>
+
+</resources>

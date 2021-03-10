@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.signup3.yesasking">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+        <TextView
+            android:id="@+id/yesperfume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="관심있는 향수계열을 선택하세요!"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#F9CCCA"
+            android:layout_marginTop="20dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:id="@+id/woody"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/woody"
+            android:text="woody"
+            android:textColor="#F9CCCA"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+        android:id="@+id/citrus"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:background="#fafafa"
+        android:drawableTop="@drawable/citrus"
+        android:text="citrus"
+        android:textColor="#F9CCCA"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp">
+        <Button
+            android:id="@+id/fruity"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/fruity"
+            android:text="fruity"
+            android:textColor="#F9CCCA"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/musk"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/musk"
+            android:text="musk"
+            android:textColor="#F9CCCA"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp">
+        <Button
+            android:id="@+id/oriental"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/oriental"
+            android:text="oriental"
+            android:textColor="#F9CCCA"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/floral"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/floral"
+            android:text="floral"
+            android:textColor="#F9CCCA"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

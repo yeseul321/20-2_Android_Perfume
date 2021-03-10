@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.signup3.noasking">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+        <TextView
+            android:id="@+id/noperfume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="관심있는 향수계열을 선택하세요!"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#F9CCCA"
+            android:layout_marginTop="20dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:id="@+id/woody"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/woody"
+            android:text="은은하지만 고급진 향"
+            android:textColor="#F9CCCA"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/citrus"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/citrus"
+            android:text="감귤같은 상큼한 향"
+            android:textColor="#F9CCCA"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp">
+        <Button
+            android:id="@+id/fruity"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/fruity"
+            android:text="달콤한 과일 향"
+            android:textColor="#F9CCCA"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/musk"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/musk"
+            android:text="달달하고 묵직한 향"
+            android:textColor="#F9CCCA"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp">
+        <Button
+            android:id="@+id/oriental"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/oriental"
+            android:text="바닐라의 부드러운 향"
+            android:textColor="#F9CCCA"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/floral"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="#fafafa"
+            android:drawableTop="@drawable/floral"
+            android:text="우아하고 은은한 꽃 향"
+            android:textColor="#F9CCCA"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "716732866189",
+    "firebase_url": "https://perfume-2860e.firebaseio.com",
+    "project_id": "perfume-2860e",
+    "storage_bucket": "perfume-2860e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716732866189:android:9e6fde5ddd97055ca70cc4",
+        "android_client_info": {
+          "package_name": "com.example.lab08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716732866189-p9ukvlommtrud2ig84lb4rpurbasir7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab08",
+            "certificate_hash": "007d1152deae852428e7d7ecc73dbc826a49594e"
+          }
+        },
+        {
+          "client_id": "716732866189-rlaekrs5kj88vb8eevjdg5kgimh53irj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpXbfXJfkPkv4QZWZ_F-10EXZxgh1oA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716732866189-rlaekrs5kj88vb8eevjdg5kgimh53irj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716732866189:android:9538ab16ba949db0a70cc4",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716732866189-rlaekrs5kj88vb8eevjdg5kgimh53irj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpXbfXJfkPkv4QZWZ_F-10EXZxgh1oA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716732866189-rlaekrs5kj88vb8eevjdg5kgimh53irj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
